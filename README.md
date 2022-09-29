@@ -1,3 +1,5 @@
+### This Repo is Archived under Pulsar-Edit due to not receiving any more than a single commit and having zero information changed after inital forking, and no evidence of it being in use, or planned to be in use of the core editor.
+
 # type_safe
 
 [![Build Status](https://travis-ci.org/foonathan/type_safe.svg?branch=master)](https://travis-ci.org/foonathan/type_safe)
